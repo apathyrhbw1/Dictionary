@@ -62,7 +62,7 @@ Data = {
 	"ABACUS": "The first computer, invented 4000 years ago, Chinese Invented this",
 	"NAPIER'S BONES" : "Multiply and divide, uses 9 different ivory bones, uses decimal points",
 	"PASCALINE": "Adding machine, invented between 1642 and 1644, first mechanical and automatic calculator",
-	"TABULAYING MACHINE": "invented in the year 1890, A mechanical Tumbulator based om punch cards",
+	"TABULATING MACHINE": "invented in the year 1890, A mechanical Tumbulator based om punch cards",
 	"ANALYTICAL ENGINE": "invented in the year 1830, by Charles Babbage, was a mechanical computer",
 	"LEIBNIZ WHEEL": "invented in the year 1673, basically a digital machanical calculator, made of fluted drums",
 	"MARK I": "invented in the year 1937, invented by Howard Aiken, with the partner ship between IBM and Harvard",
